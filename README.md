@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hey, I'm **Renne**. I like to break geometry dash with Geode SDK mods!
+Hey, I'm **Renne**, I'm 16. I like to break geometry dash with Geode SDK mods!
 
 **My  focus right now is to get my mod menu (Lunar) accpeted on to the Geode Index!**
 
