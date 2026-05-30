@@ -15,5 +15,7 @@ Hey, I'm **Renne**. I like to break geometry dash with Geode SDK mods!
 *   **To-Do** – Simple app to push notifications to, well do things
 ---
 **Contact:** DM me on Discord! (@renne0203)
+
 **Languages:** 🇰🇷 / 🇺🇸 / 🇪🇸
+
 **Pronouns:** she/her
