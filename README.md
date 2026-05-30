@@ -1,16 +1,19 @@
 ## Hi there 👋
+Hey, I'm **Renne**. I like to break geometry dash with Geode SDK mods!
 
-<!--
-**Renne-dev/Renne-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My  focus right now is to get my mod menu (Lunar) accpeted on to the Geode Index!**
 
-Here are some ideas to get you started:
+### The Tech Stack
+*   **Reverse Engineer:** IDA Pro, Ghidra
+*   **Dev:** C++, Python
+*   **Focus:** Geometry Dash **mods**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+*   **Lunar** – Geometry dash mod menu
+*   **Notes** – Note-taking app for TOEFL takers
+*   **DevRoom** – Simple python IDE
+*   **To-Do** – Simple app to push notifications to, well do things
+---
+**Contact:** DM me on Discord! (@renne0203)
+**Languages:** 🇰🇷 / 🇺🇸 / 🇪🇸
+**Pronouns:** she/her
